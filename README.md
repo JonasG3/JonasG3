@@ -27,7 +27,7 @@ Um sistema [breve descrição, exemplo: "para gerenciar tarefas com integração
 Aplicativo [breve descrição, exemplo: "de previsão do tempo com API e interface moderna"].  
 
 💌 **Contato**  
-📧 E-mail: [seu-email](jonas_oficina_@hotmail.com)  
+📧 E-mail: (jonas_oficina_@hotmail.com)  
 💼 LinkedIn: [Seu Perfil](https://linkedin.com/in/seu-perfil)  
 🌐 Portfólio: [Seu Site](https://seusite.com)  
 
