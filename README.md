@@ -1,8 +1,4 @@
-### Olá! Eu sou Jonas Souza 👋
-
-![JonasG3 GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasG3&show_icons=true&theme=radical)
-
-# Olá, eu sou [Seu Nome] 👋
+# Olá, eu sou Jonas Souza 👋
 
 🌟 **Sobre mim**  
 Sou apaixonado por tecnologia, desenvolvimento e criação de soluções criativas para problemas do dia a dia. Atualmente, trabalho com **[sua área principal, ex.: desenvolvimento web, UI/UX design, etc.]** e estou sempre em busca de novos desafios.
@@ -21,7 +17,8 @@ Sou apaixonado por tecnologia, desenvolvimento e criação de soluções criativ
 - [ ] Testes Automatizados  
 
 📊 **Estatísticas do GitHub**  
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+
+![JonasG3 GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasG3&show_icons=true&theme=radical)
 
 💌 **Contato**  
 📧 E-mail: [seu-email](mailto:seu-email@example.com)  
