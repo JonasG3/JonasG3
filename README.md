@@ -1,7 +1,7 @@
 # Olá, eu sou Jonas Souza 👋
 
 🌟 **Sobre mim**  
-Sou apaixonado por tecnologia, desenvolvimento e criação de soluções criativas para problemas do dia a dia. Atualmente, trabalho com **[sua área principal, ex.: desenvolvimento web, UI/UX design, etc.]** e estou sempre em busca de novos desafios.
+Sou apaixonado por tecnologia, desenvolvimento e criação de soluções criativas para problemas do dia a dia. Atualmente, trabalho com desenvolvimento web, UI/UX design, etc.]** e estou sempre em busca de novos desafios.
 
 🔧 **Tecnologias & Ferramentas**  
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -13,15 +13,14 @@ Sou apaixonado por tecnologia, desenvolvimento e criação de soluções criativ
 
 🎯 **Atualmente estudando**  
 - [ ] Node.js  
-- [ ] Design de APIs REST  
-- [ ] Testes Automatizados  
+- [ ] Design de APIs REST 
 
 📊 **Estatísticas do GitHub**  
 
 ![JonasG3 GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasG3&show_icons=true&theme=radical)
 
 💌 **Contato**  
-📧 E-mail: [seu-email](mailto:seu-email@example.com)  
+📧 E-mail: [seu-email](jonas_oficina_@hotmail.com)  
 💼 LinkedIn: [Seu Perfil](https://linkedin.com/in/seu-perfil)  
 🌐 Portfólio: [Seu Site](https://seusite.com)  
 
