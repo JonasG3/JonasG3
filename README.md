@@ -33,4 +33,4 @@ Aplicativo [breve descrição, exemplo: "de previsão do tempo com API e interfa
 
 ✨ **"⁠No caminho para alcançar seus sonhos é preciso aplicar disciplina você precisa aplicar disciplina, mas o mais importante é a consistência porque sem comprometimento você nunca vai começar e sem consistência você nunca conseguirá terminar."**
 
-Denzel Washington
+Denzel Washington.
