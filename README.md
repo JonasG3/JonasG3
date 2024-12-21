@@ -20,11 +20,11 @@ Sou apaixonado por tecnologia, desenvolvimento e criação de soluções criativ
 ![JonasG3 GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasG3&show_icons=true&theme=radical)
 
 ## 💼 Projetos Destaque  
-### 📌 [Nome do Projeto 1](https://github.com/seu-usuario/projeto-1)
-Um sistema [breve descrição, exemplo: "para gerenciar tarefas com integração Firebase"].  
+### 📌 [Em desenvolvimento](https://github.com/seu-usuario/projeto-1)
+Um sistema ["Para gerenciar tarefas com integração Firebase"].  
 
-### 📌 [Nome do Projeto 2](https://github.com/seu-usuario/projeto-2)
-Aplicativo [breve descrição, exemplo: "de previsão do tempo com API e interface moderna"].  
+### 📌 [Em desenvolvimento](https://github.com/seu-usuario/projeto-2)
+Aplicativo ["De previsão do tempo com API e interface moderna"].  
 
 💌 **Contato**  
 📧 E-mail: (jonas_oficina_@hotmail.com)  
