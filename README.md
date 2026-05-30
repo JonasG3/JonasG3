@@ -6,7 +6,7 @@
 </div>
 
 <br/>
-## 🚀 Sobre mim
+🚀 Sobre mim
 
 Atuo no desenvolvimento de soluções que **aumentam a produtividade, reduzem atividades manuais e otimizam operações corporativas**. 
 
