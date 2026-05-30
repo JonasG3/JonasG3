@@ -2,12 +2,10 @@
   <h1>Olá, eu sou Jonas Costa 👋</h1>
   <p><em>Especialista em Automação de Processos e Transformação Digital</em></p>
 
-  <a href="SEU_LINKEDIN_AQUI" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="www.linkedin.com/in/jonas-costa-web" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
 <br/>
-
 ## 🚀 Sobre mim
 
 Atuo no desenvolvimento de soluções que **aumentam a produtividade, reduzem atividades manuais e otimizam operações corporativas**. 
@@ -67,10 +65,3 @@ Tenho forte experiência na criação de automações utilizando **RPA, Python e
 - 🔹 **Dashboards e análises operacionais** avançadas em Power BI.
 
 ---
-
-<div align="center">
-  <h2>📊 Estatísticas do GitHub</h2>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=JonasG3&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=777777" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasG3&layout=compact&theme=transparent&hide_border=true&title_color=3776AB&text_color=777777" width="48%" alt="Top Languages">
-</div>
