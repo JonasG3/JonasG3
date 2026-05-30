@@ -2,7 +2,7 @@
   <h1>Olá, eu sou Jonas Costa 👋</h1>
   <p><em>Especialista em Automação de Processos e Transformação Digital</em></p>
 
-  <a href="www.linkedin.com/in/jonas-costa-web" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/jonas-costa-web" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
 <br/>
